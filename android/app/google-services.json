@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5192812596",
+    "project_id": "banao-task-3-c0f4c",
+    "storage_bucket": "banao-task-3-c0f4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5192812596:android:3e0577b6456fb7dd1a2261",
+        "android_client_info": {
+          "package_name": "com.example.banao_notes_task_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5192812596-iii5rhapkhkvlcp9qrlhi441bnd93etn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgYUef5-hmGBRXvdXfTskU5_QZPHL6YS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5192812596-iii5rhapkhkvlcp9qrlhi441bnd93etn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
