@@ -1,4 +1,4 @@
-# banao_notes_task_3
+# Notes App Using Cloud Firestore and Cubits
 
 A new Flutter project.
 
